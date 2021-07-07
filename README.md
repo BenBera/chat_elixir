@@ -1,6 +1,7 @@
 # Chat
 
 **TODO: Add description**
+A small sample project thats shows how two node can communicate between each other
 
 ## Installation
 
@@ -14,8 +15,8 @@ def deps do
   ]
 end
 ```
- sending and receiving messages between two nodes localy 
- firt, run  the elixir project in two terminal iex --sname ben@localhost and iex --sname bera@localhost 
+ sending and receiving messages between two nodes localy <br>
+ first, run  the elixir project in two terminal iex --sname ben@localhost and iex --sname bera@localhost <br>
  on the first terminal type  Chat.send_message(:bera@localhost, "helloo Mr Bera")
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
