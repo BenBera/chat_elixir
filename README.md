@@ -1,6 +1,7 @@
 # Chat
 
 **TODO: Add description**
+<br>
 A small sample project thats shows how two node can communicate between each other
 
 ## Installation
